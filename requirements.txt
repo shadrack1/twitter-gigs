@@ -74,7 +74,7 @@ tabula-py==2.1.0
 tabulate==0.8.7
 tomlkit==0.5.11
 -e git+https://github.com/twintproject/twint.git@3828732b69c2ebeed6dd5b5f922db34e43106c9c#egg=twint
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 webencodings==0.5.1
 yarl==1.4.2
